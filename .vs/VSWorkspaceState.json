@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\My Reading Work"
+    "\\My Reading Work",
+    "\\tesseract-python",
+    "\\tesseract-python\\images"
   ],
   "PreviewInSolutionExplorer": false
 }
